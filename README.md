@@ -36,7 +36,7 @@ I support an organization that does home repair for low income households that i
 ### DB Screenshots
 **DB Relationships:**
 
-\![DB Relationships](Repair_DB/DB_Table_Relationships.png)
+![DB Relationships](Repair_DB/DB_Table_Relationships.png)
 
 **Household Application Input Form:**
 
